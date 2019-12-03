@@ -60,4 +60,5 @@ public class Analyzer {
         System.out.println("mzzzz, binary: " + (System.nanoTime() - startTime6) + " milliseconds");
     }
 //end
+    //a nice little change for github
 }
